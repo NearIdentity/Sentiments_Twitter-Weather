@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<body>
+<h1> Index Page -- Topic Sentiments by City </h1>
+<a href="cities/houston">houston</a>
+<a href="cities/san_diego/san_diego.html">san diego</a>
+<a href="cities/charlotte/charlotte.html">charlotte</a>
+<a href="cities/boston/boston.html">boston</a>
+<a href="cities/washington/washington.html">washington</a>
+<a href="cities/san_francisco/san_francisco.html">san francisco</a>
+<a href="cities/seattle/seattle.html">seattle</a>
+<a href="cities/chicago/chicago.html">chicago</a>
+<a href="cities/philadelphia/philadelphia.html">philadelphia</a>
+<a href="cities/denver/denver.html">denver</a>
+<a href="cities/louisville/louisville.html">louisville</a>
+<a href="cities/new_york/new_york.html">new york</a>
+<a href="cities/san_antonio/san_antonio.html">san antonio</a>
+<a href="cities/columbus/columbus.html">columbus</a>
+<a href="cities/indianapolis/indianapolis.html">indianapolis</a>
+<a href="cities/phoenix/phoenix.html">phoenix</a>
+<a href="cities/nashville/nashville.html">nashville</a>
+<a href="cities/portland_or/portland_or.html">portland, or</a>
+<a href="cities/memphis/memphis.html">memphis</a>
+<a href="cities/jacksonville/jacksonville.html">jacksonville</a>
+<a href="cities/dallas/dallas.html">dallas</a>
+<a href="cities/fort_worth/fort_worth.html">fort worth</a>
+<a href="cities/detroit/detroit.html">detroit</a>
+<a href="cities/el_paso/el_paso.html">el paso</a>
+<a href="cities/las_vegas/las_vegas.html">las vegas</a>
+<a href="cities/los_angeles/los_angeles.html">los angeles</a>
+<a href="cities/oklahoma_city/oklahoma_city.html">oklahoma city</a>
+<a href="cities/austin/austin.html">austin</a>
+<a href="cities/baltimore/baltimore.html">baltimore</a>
+</body>
+</html>
